@@ -9,7 +9,7 @@ class LegalAIApp {
         this.isAnalyzing = false;
         this.uploadedContract = null;
         this.currentSessionId = null;
-        this.apiBaseUrl = "https://legalai-pro.onrender.com/api";
+        this.apiBaseUrl = "http://localhost:5000/api";
         this.currentTheme = localStorage.getItem("theme") || "light";
         
         // Initialize modules based on current page

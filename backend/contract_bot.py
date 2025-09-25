@@ -19,7 +19,7 @@ class ContractAnalyzer:
         if api_key:
             os.environ["GOOGLE_API_KEY"] = api_key
         elif not os.environ.get("GOOGLE_API_KEY"):
-            os.environ["GOOGLE_API_KEY"] = "AIzaSyAWjNzPom70z6u9P3ZkuCXo5bC6Yr-3D0w"  # Replace
+            os.environ["GOOGLE_API_KEY"] = "AIzaSyCRGyWp-YggcdvnQ1BipncuwCQNvcw3g2w"  # Replace
 
         self.embedding_model = GoogleGenerativeAIEmbeddings(model="models/embedding-001")
         self.llm = ChatGoogleGenerativeAI(model="gemini-1.5-flash", temperature=0.3)

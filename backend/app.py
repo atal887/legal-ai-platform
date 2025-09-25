@@ -1,4 +1,9 @@
 # backend/app.py - Flask API Server
+import os
+os.environ["TOKENIZERS_PARALLELISM"] = "false"
+
+import logging
+logging.getLogger("grpc").setLevel(logging.ERROR)
 
 from flask import Flask, request, jsonify, send_from_directory
 from flask_cors import CORS

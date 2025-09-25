@@ -191,7 +191,7 @@ def analyze_text(text):
     # Contract type
     type_emb = get_embeddings(CONTRACT_TYPES)
     sims = cosine_sim(type_emb, sent_emb)
-    if sims.size == 0:
+    if sims.size == 0:         
         contract_type = CONTRACT_TYPES[0]
         contract_type_score = 0.0
     else:
