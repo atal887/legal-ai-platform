@@ -28,3 +28,4 @@ logs/
 uploads/
 vectorstore/
 .env
+backend/venv/
