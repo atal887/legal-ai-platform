@@ -175,13 +175,6 @@ uuid
 - **Progress Indicators**: Visual feedback during processing
 - **Downloadable Results**: Analysis results and recommendations
 
-## 👥 Team
-
-**Made by:**
-- **Aryan Bansal** - Backend Development & AI Integration
-- **Anushka Gupta** - Frontend Development & UI/UX Design  
-- **Aryan Gupta** - AI Model Implementation & Testing
-
 ## 🔒 Privacy & Security
 
 - Enterprise-grade security measures
