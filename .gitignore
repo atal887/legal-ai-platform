@@ -27,3 +27,4 @@ logs/
 # Uploaded files
 uploads/
 vectorstore/
+.env
