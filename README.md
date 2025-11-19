@@ -175,6 +175,12 @@ uuid
 - **Progress Indicators**: Visual feedback during processing
 - **Downloadable Results**: Analysis results and recommendations
 
+## 👥 Team 
+
+- **Nandini Atal**  🔗 [GitHub](https://github.com/atal887)  🔗 [LinkedIn](https://www.linkedin.com/in/atalnandini887)
+- **Aryan Bansal**  🔗 [GitHub](https://github.com/algo-aryan)  🔗 [LinkedIn](https://linkedin.com/in/aryanbansal1509)
+
+
 ## 🔒 Privacy & Security
 
 - Enterprise-grade security measures
